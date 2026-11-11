@@ -1,6 +1,4 @@
-![NoktuaLabs — petits outils pour macOS](noktualabs-banniere.png)
-
-Petits outils pour macOS, discrets et faits avec soin.
+![NoktuaLabs](noktualabs-banniere.png)
 
 | App | Ce qu'elle fait | Télécharger |
 |---|---|---|
