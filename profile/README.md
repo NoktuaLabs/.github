@@ -1,4 +1,4 @@
-![NoktuaLabs](noktualabs-banniere.png)
+![NoktuaLabs — apps · humain × IA](noktualabs-banniere.png)
 
 | App | Ce qu'elle fait | Télécharger |
 |---|---|---|
