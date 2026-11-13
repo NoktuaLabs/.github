@@ -1,20 +1,31 @@
-![NoktuaLabs — apps · humain × IA](noktualabs-banniere.png)
+<p align="center"><img src="noktualabs-banniere.png" alt="NoktuaLabs — apps · humain × IA"></p>
 
-## macOS
+<p align="center">De petites apps soignées pour le Mac et la TV, imaginées par un humain et construites avec une IA.<br>
+Signées, et qui se mettent à jour d'elles-mêmes.</p>
 
-| App | Ce qu'elle fait | Télécharger |
-|---|---|---|
-| **BarSweeper** | Range les icônes de la barre des menus : masquage, barre additionnelle, réglage à part pour l'écran à encoche. | [Dernière version](https://github.com/NoktuaLabs/BarSweeper-releases/releases/latest) |
-| **ClipKeeper** | Garde l'historique du presse-papiers et le rend à portée de raccourci. | [Dernière version](https://github.com/NoktuaLabs/ClipKeeper-releases/releases/latest) |
-| **ProximityLock** | Verrouille la session quand l'Apple Watch s'éloigne du Mac. | [Dernière version](https://github.com/NoktuaLabs/ProximityLock-releases/releases/latest) |
-| **ClaudeUsage** | Affiche la consommation de Claude dans la barre des menus. | [Dernière version](https://github.com/NoktuaLabs/ClaudeUsage-releases/releases/latest) |
+<p align="center"><a href="https://noktualabs.github.io"><b>→ Découvrir les apps sur noktualabs.github.io</b></a></p>
 
-Les apps sont signées et se mettent à jour d'elles-mêmes, en vérifiant la signature de chaque nouvelle version.
+## Pour le Mac
 
-## Android
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/NoktuaLabs/ProximityLock-releases"><img src="images/carte-proximitylock.png" alt="ProximityLock"></a></td>
+<td width="50%"><a href="https://github.com/NoktuaLabs/ClipKeeper-releases"><img src="images/carte-clipkeeper.png" alt="ClipKeeper"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/NoktuaLabs/BarSweeper-releases"><img src="images/carte-barsweeper.png" alt="BarSweeper"></a></td>
+<td width="50%"><a href="https://github.com/NoktuaLabs/ClaudeUsage-releases"><img src="images/carte-claudeusage.png" alt="ClaudeUsage"></a></td>
+</tr>
+</table>
 
-| App | Ce qu'elle fait | Télécharger |
-|---|---|---|
-| **GlinTV** | Écran d'accueil pour Android TV : grands fonds photo renouvelés, horloge qui passe derrière le relief. | [Dernière version](https://github.com/NoktuaLabs/GlinTV-releases/releases/latest) |
+## Pour Android TV
 
-GlinTV est signé et peut chercher ses mises à jour chaque jour ; Android demande toujours de confirmer l'installation.
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/NoktuaLabs/GlinTV-releases"><img src="images/carte-glintv.png" alt="GlinTV"></a></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<sub>Chaque carte mène à la page de l'app : captures, fonctionnement, installation et questions fréquentes.
+Les apps Mac sont signées par NoktuaLabs et vérifient la signature de chaque mise à jour avant de l'installer.</sub>
